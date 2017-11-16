@@ -120,7 +120,7 @@ public class Event {
 
 	public static void getTeam() {
 		for (int i = 0; i < team.size(); i++) {
-			System.out.println("ID : " + i + " " + team.get(i));
+			System.out.println("ID : " + i + " " + team.get(i) + "กูว่างโว้ยยยยย");
 		}
 	}
 }
